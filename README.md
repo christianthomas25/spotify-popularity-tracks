@@ -113,16 +113,6 @@ Maximizing recall (capturing more hits) leads to higher overall profit, even wit
 
 ---
 
-## Project Structure
-finalproject_ML2/
-├── ML2 Group Project - Final.ipynb
-├── Section1Group5_ML2 Report.pdf
-├── Section1Group5 - ML2_Group Assignment - Slides.pdf
-└── README.md
-
-
----
-
 ## Tech Stack
 - Python  
 - Pandas, NumPy  
